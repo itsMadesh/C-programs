@@ -1,0 +1,5 @@
+'C' is a structured programming language in which program is divided into various modules. 
+Each module can be written separately and together it forms a single 'C' program. 
+This structure makes it easy for testing, maintaining and debugging processes.
+'C' contains 32 keywords, various data types and a set of powerful built-in functions that make programming very efficient.
+Various compilers are available in the market that can be used for executing programs written in this language.

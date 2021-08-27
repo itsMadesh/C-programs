@@ -1,0 +1,94 @@
+
+MENU
+1.Insert
+2.Update
+3.Delete
+4.Append
+5.Exit
+6.Display
+Enter a choice(1/2/3/4/5/6):
+Enter no. of records:
+Enter name:
+Enter number: 
+Enter name:
+Enter number: 
+MENU
+1.Insert
+2.Update
+3.Delete
+4.Append
+5.Exit
+6.Display
+Enter a choice(1/2/3/4/5/6):File content of Exercise-7/telephone_directory.dat :
+Name : john Number : 9000090000
+Name : madesh Number : 8000080000
+EOF
+MENU
+1.Insert
+2.Update
+3.Delete
+4.Append
+5.Exit
+6.Display
+Enter a choice(1/2/3/4/5/6):
+Enter name to update : Nmae:john X=john
+Enter new details :
+Enter name : Enter number : Nmae:madesh X=john
+MENU
+1.Insert
+2.Update
+3.Delete
+4.Append
+5.Exit
+6.Display
+Enter a choice(1/2/3/4/5/6):File content of Exercise-7/telephone_directory.dat :
+Name : sangam Number : 7000070000
+Name : madesh Number : 8000080000
+EOF
+MENU
+1.Insert
+2.Update
+3.Delete
+4.Append
+5.Exit
+6.Display
+Enter a choice(1/2/3/4/5/6):
+Enter name to be deleted:
+MENU
+1.Insert
+2.Update
+3.Delete
+4.Append
+5.Exit
+6.Display
+Enter a choice(1/2/3/4/5/6):File content of Exercise-7/telephone_directory.dat :
+Name : sangam Number : 7000070000
+EOF
+MENU
+1.Insert
+2.Update
+3.Delete
+4.Append
+5.Exit
+6.Display
+Enter a choice(1/2/3/4/5/6):Enter no. of records : 
+Enter name : Enter number : 
+MENU
+1.Insert
+2.Update
+3.Delete
+4.Append
+5.Exit
+6.Display
+Enter a choice(1/2/3/4/5/6):File content of Exercise-7/telephone_directory.dat :
+Name : sangam Number : 7000070000
+Name : navin Number : 6000060000
+EOF
+MENU
+1.Insert
+2.Update
+3.Delete
+4.Append
+5.Exit
+6.Display
+Enter a choice(1/2/3/4/5/6):
